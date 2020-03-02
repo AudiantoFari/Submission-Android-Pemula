@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Submission Android Pemula</string>
+    <string name="anime_name">Nama Anime</string>
+    <string name="detail">Detail</string>
+    <string name="synopsis">Synopsis</string>
+</resources>
